@@ -1,0 +1,44 @@
+.barraNavegacion{
+	height: 120px;
+}
+
+.barraNavegacion>a{
+	margin-left: 5px;
+	margin-top: 25px;
+}
+
+.izquierda{
+	float: left;
+}
+
+.limpiador{
+	clear: both;
+}
+
+.centrado{
+	position: relative;
+	width: 35%;
+	height: 65%;
+}
+
+.derecha{
+	float: right;
+}
+
+.fila1>div{
+	display: inline-block;
+}
+
+.columna1{
+	width: 29%;
+}
+
+.columna2{
+	width: 69%;
+	overflow: hidden;
+}
+
+.columna2>img{
+	height: 750px;
+	width: 650px;
+}
